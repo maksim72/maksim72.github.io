@@ -1,0 +1,53 @@
+{
+   "weekdays": [
+      {
+         "name": "Monday",
+         "subjects": [
+            "PE p",
+            "MA l",
+            "VMA p"
+         ]
+      },
+      {
+         "name": "Tuesday",
+         "subjects": [
+            "SOC",
+            "SOC"
+         ]
+      },
+      {
+         "name": "Wednesday",
+         "subjects": [
+            "MA p",
+            "MA l",
+            "DU l"
+         ]
+      },
+      {
+         "name": "Thursday",
+         "subjects": [
+            "PE p",
+            "DM l",
+            "PR p",
+            "PR p"
+         ]
+      },
+      {
+         "name": "Friday",
+         "subjects": [
+            "VMA l",
+            "DU p",
+            "DM p"
+         ]
+      },
+      {
+         "name": "Saturday",
+         "subjects": [
+            "PR l",
+            "MA p",
+            "",
+            "DA l"
+         ]
+      }
+   ]
+}

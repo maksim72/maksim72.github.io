@@ -7,3 +7,6 @@
 - [timetable.txt](timetable.txt)
 - [timetable.json](timetable.json)
 
+# Мои репозитории
+
+[Тык](https://github.com/maksim72)

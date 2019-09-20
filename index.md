@@ -4,8 +4,9 @@
 - [\*this](https://maksim72.github.io)
 
 # Расписание
-- [timetable.txt](timetable.txt)
-- [timetable.json](timetable.json)
+- [timetable.html](timetable/timetable.html)
+- [timetable.txt](timetable/timetable.txt)
+- [timetable.json](timetable/timetable.json)
 
 # Мои репозитории
 

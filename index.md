@@ -12,6 +12,11 @@
 
 [Тык](https://github.com/maksim72)
 
+# Мои боты в Telegram
+
+[QrMakerBot](https://t.me/qrmakerbot)
+
+
 # Контакты
 
 [Telegram](https://t.me/maksim_24)

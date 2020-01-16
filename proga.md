@@ -10,7 +10,6 @@ Java SE = Standard Edition. This is the core Java programming platform. It conta
 
 Java EE = Enterprise Edition. From Wikipedia:
 
-
 > The Java platform (Enterprise Edition) differs from the Java Standard Edition Platform (Java SE) in that it adds libraries which provide functionality to deploy fault-tolerant, distributed, multi-tier Java software, based largely on modular components running on an application server.
 
 In other words, if your application demands a very large scale, distributed system, then you should consider using Java EE. Built on top of Java SE, it provides libraries for database access (JDBC, JPA), remote method invocation (RMI), messaging (JMS), web services, XML processing, and defines standard APIs for Enterprise JavaBeans, servlets, portlets, Java Server Pages, etc...
@@ -210,21 +209,41 @@ class b
 
 ## 26. Структура XML-документа. Комментарии, текстовые блоки.
 
+### [XML structure](https://www.tutorialspoint.com/xml/xml_documents.htm)
+
 ## 27. Структура XML-документа. Пространства имен.
+
+### [XML - Namespaces](https://www.tutorialspoint.com/xml/xml_namespaces.htm)
 
 ## 28. Разбор XML. Технология DOM.
 
+### [DOM](https://www.tutorialspoint.com/java_xml/java_dom_parser.htm)
+
 ## 29. Разбор XML. Технология SAX.
+
+### [SAX](https://www.tutorialspoint.com/java_xml/java_sax_parser.htm)
 
 ## 30. XML-схемы. Простые типы. Проверка корректности XML.
 
+### [Validation](https://www.tutorialspoint.com/xml/xml_validation.htm)
+
 ## 31. XML-схемы. Сложные типы. Проверка корректности XML.
 
+### [XML Syntax](https://www.tutorialspoint.com/xml/xml_validation.htm)
+
 ## 32. WWW. Понятие URI. Типичная структура узла.
+
+### WWW
+
+The World Wide Web, commonly known as the Web, is an information system where documents and other web resources are identified by Uniform Resource Locators, which may be interlinked by hypertext, and are accessible over the Internet
+
+### [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 
 ## 33. Рекомендации для проектирования сайта.
 
 ## 34. Структура HTML-документа. Заголовок HEAD.
+
+### [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
 
 ## 35. HTML: заголовки, абзацы, списки.
 
@@ -234,4 +253,8 @@ class b
 
 ## 38. Стили в HTML.
 
+### [HTML styles](https://www.w3schools.com/html/html_styles.asp)
+
 ## 39. Текстовый формат обмена данными JSON. 
+
+### [JSON](https://www.tutorialspoint.com/json/json_overview.htm)

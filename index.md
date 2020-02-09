@@ -3,7 +3,7 @@
 ## Мои проекты
 
 * ~~[QrMakerBot](https://t.me/qrmakerbot)~~
-* [coronavirus2020.club](coronavirus2020.club)
+* [coronavirus2020.club](https://coronavirus2020.club)
 
 ## Мои репозитории
 

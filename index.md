@@ -1,29 +1,18 @@
-# [Обратный отсчет до контрольной](./test.html)
+# Это название моей страницы
 
-# Заметки
-- [список задач по ВМА](http://simp.ly/publish/Hl3fDF)
-- здесь когда-то будет что-то ещё
-- [прога](proga.md)
-- [\*this](https://maksim72.github.io)
+## Мои проекты
 
-# Расписание
-- [timetable.html](timetable/timetable.html)
-- [timetable.txt](timetable/timetable.txt)
-- [timetable.json](timetable/timetable.json)
+* ~~[QrMakerBot](https://t.me/qrmakerbot)~~
+* [coronavirus2020.club](coronavirus2020.club)
 
-# Мои репозитории
+## Мои репозитории
 
 [Тык](https://github.com/maksim72)
 
-# Мои боты в Telegram
-
-[QrMakerBot](https://t.me/qrmakerbot)
-
-
-# Контакты
+## Контакты
 
 [Telegram](https://t.me/maksim_24)
 
-# Всякое
+## Всякое
 - [homepage](homepage.md)
 

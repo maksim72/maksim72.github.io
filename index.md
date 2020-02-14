@@ -4,6 +4,7 @@
 
 * ~~[QrMakerBot](https://t.me/qrmakerbot)~~
 * [coronavirus2020.club](https://coronavirus2020.club)
+* [конспект по политологии](https://github.com/maksim72/politology)
 
 ## Мои репозитории
 

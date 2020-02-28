@@ -2,9 +2,9 @@
 
 ## Мои проекты
 
-* ~~[QrMakerBot](https://t.me/qrmakerbot)~~
+* [QrMakerBot](https://t.me/qrmakerbot)
 * [coronavirus2020.club](https://coronavirus2020.club)
-* [конспект по политологии](https://github.com/maksim72/politology)
+* [конспект по политологии](https://maksim72.github.io/politology-webpage)
 
 ## Мои репозитории
 

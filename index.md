@@ -1,10 +1,9 @@
-# Это название моей страницы
-
 ## Мои проекты
 
-* [QrMakerBot](https://t.me/qrmakerbot)
-* [coronavirus2020.club](https://coronavirus2020.club)
-* [конспект по политологии](https://maksim72.github.io/politology/)
+- [QrMakerBot](https://t.me/qrmakerbot)
+- [tuesdayvoenkabot])(https://t.me/tuesdayvoenkabot)
+- [coronavirus2020.club](https://coronavirus2020.club)
+- [конспект по политологии](https://maksim72.github.io/politology/)
 
 ## Мои репозитории
 

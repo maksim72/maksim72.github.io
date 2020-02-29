@@ -1,7 +1,7 @@
 ## Мои проекты
 
 - [QrMakerBot](https://t.me/qrmakerbot)
-- [tuesdayvoenkabot])(https://t.me/tuesdayvoenkabot)
+- [tuesdayvoenkabot](https://t.me/tuesdayvoenkabot)
 - [coronavirus2020.club](https://coronavirus2020.club)
 - [конспект по политологии](https://maksim72.github.io/politology/)
 

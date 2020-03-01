@@ -13,6 +13,3 @@
 
 [Telegram](https://t.me/maksim_24)
 
-## Всякое
-- [homepage](homepage.md)
-

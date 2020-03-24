@@ -11,5 +11,6 @@
 
 ## Контакты
 
-[Telegram](https://t.me/maksim_24)
+- [Telegram](https://t.me/maksim_24)
+- [Email](mailto:maksim.pishchulenok@outlook.com)
 

@@ -3,7 +3,7 @@
 - [QrMakerBot](https://t.me/qrmakerbot)
 - [tuesdayvoenkabot](https://t.me/tuesdayvoenkabot)
 - [coronavirus2020.club](https://coronavirus2020.club)
-- [конспект по политологии](https://demo.codimd.org/s/HJ9m9etvL)
+- [конспект по политологии](https://maksim72.github.io/politology/)
 
 ## Мои репозитории
 

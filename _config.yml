@@ -1,3 +1,3 @@
 title: Maksim Pishchulenok
 description: 
-remote_theme: "dracula/gh-pages"
+theme: jekyll-theme-cayman

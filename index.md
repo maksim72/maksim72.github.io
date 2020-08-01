@@ -4,6 +4,7 @@
 - [tuesdayvoenkabot](https://t.me/tuesdayvoenkabot)
 - [coronavirus2020.club](https://coronavirus2020.club)
 - [конспект по политологии](https://maksim72.github.io/politology/)
+- [Belpost api](https://belpost-rss.herokuapp.com/)
 
 ## Repos
 

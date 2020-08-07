@@ -3,12 +3,12 @@
 - [QrMakerBot](https://t.me/qrmakerbot)
 - [tuesdayvoenkabot](https://t.me/tuesdayvoenkabot)
 - [coronavirus2020.club](https://coronavirus2020.club)
-- [конспект по политологии](https://maksim72.github.io/politology/)
+- [конспект по политологии](https://pischule.github.io/politology/)
 - [Belpost API](http://api.coolprojects.online)
 
 ## Repos
 
-- [Тык](https://github.com/maksim72)
+- [Тык](https://github.com/pischule)
 
 ## Contact
 

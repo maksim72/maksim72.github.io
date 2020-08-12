@@ -5,7 +5,8 @@
 - [coronavirus2020.club](https://coronavirus2020.club)
 - [конспект по политологии](https://pischule.github.io/politology/)
 - [Belpost API](http://api.coolprojects.online)
-- [Telegram MTProto proxy](https://t.me/proxy?server=176.107.133.133&port=1080&secret=2e1c4375b8fd4e5febe410cbd9610112)
+- [Telegram MTProto proxy instance](https://t.me/proxy?server=176.107.133.133&port=1080&secret=2e1c4375b8fd4e5febe410cbd9610112)
+- [locallibrary (MDN backend tutorial)](https://stark-refuge-77419.herokuapp.com/)
 
 ## Repos
 

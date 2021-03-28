@@ -8,10 +8,9 @@
 *   [🤖 telegram bot - TuesdayVoenkaBot](https://t.me/tuesdayvoenkabot)
 *   [🛠 flask webapp - Belpost API](https://belpost-api.herokuapp.com/)
 *   [📕 django webapp - locallibrary (](https://stark-refuge-77419.herokuapp.com/)[Source](https://github.com/pischule/django-local-library))
-*   [🖼 BSU Military Faculty virtual tour](pano)
+*   [🖼 BSU Military Faculty virtual tour](https://bsu-mf.github.io/pano/)
 *   [😷 coronavirus2020.club](https://coronavirus2020.club)
 *   [📰 rss-bridge instance](https://coolrssbridges.herokuapp.com/)
-*   [🕳 telegram MTProto proxy instance](https://t.me/proxy?server=coolprojects.online&port=1080&secret=2e1c4375b8fd4e5febe410cbd9610112)
 
 ## Github repos
 
